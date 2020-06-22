@@ -8,7 +8,7 @@ In particular, the use of drones that are able to automatically detect people in
 
 ## Objectives
 
-In this repository, we provide a new dataset specifically conceived for SAR operations from drones with computer vision. As it is small-sized, the dataset is currently intended for testing and evaluation purposes only. We also provide baseline results on these data, obtained with the state-of-the-art object detector TinyYOLOv3. This detector can return (nearly) real-time responses on embedded GPUs currently mounted on drones. We used the pre-trained model provided in the well-known [Alexey's repository]("https://github.com/AlexeyAB"), and we fine-tuned it on the challenging training set of Task 1 (object detection) of [VisDrone]("https://github.com/VisDrone"), focusing only on people. Fine-tuning has been performed until early stopping, by monitoring the loss value on the validation set of the same dataset.
+In this repository, we provide a new dataset specifically conceived for SAR operations from drones with computer vision. As it is small-sized, the dataset is currently intended for testing and evaluation purposes only. We also provide baseline results on these data, obtained with the state-of-the-art object detector TinyYOLOv3. This detector can return (nearly) real-time responses on embedded GPUs currently mounted on drones. We used the pre-trained model provided in the well-known [Alexey's repository](https://github.com/AlexeyAB), and we fine-tuned it on the challenging training set of Task 1 (object detection) of [VisDrone](https://github.com/VisDrone), focusing only on people. Fine-tuning has been performed until early stopping, by monitoring the loss value on the validation set of the same dataset.
 
 ### Dataset description
 
