@@ -12,7 +12,7 @@ In this repository, we provide a new dataset specifically conceived for SAR oper
 
 ### Dataset description
 
-Actually, the dataset comprises two different SAR scenarios 
+Actually, the dataset comprises two different SAR scenarios: 
 - `mountains`: 200 frames, 100 with annotated people, 100 without people
 - `beaches`: 110 frames, 55 with annotated people, 55 without people
 
