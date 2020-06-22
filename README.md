@@ -8,7 +8,7 @@ In particular, the use of drones that are able to automatically detect people in
 
 ## Objectives
 
-In this repository, we provide a new dataset specifically conceived for SAR operations from drones with computer vision. As it is small-sized, the dataset is currently intended for testing and evaluation purposes only. We also provide baseline results on these data, obtained with the state-of-the-art object detector TinyYOLOv3. This detector can return (nearly) real-time responses on embedded GPUs currently mounted on drones. We used the pre-trained model provided in the well-known [Alexey's repository](https\github.com\AlexeyAB\darknet), and we fine-tuned it on the challenging training set of Task 1 (object detection) of [VisDrone](https\github.com\VisDrone\VisDrone-Dataset), focusing only on people. Fine-tuning has been performed until early stopping, by monitoring the loss value on the validation set of the same dataset.
+In this repository, we provide a new dataset specifically conceived for SAR operations from drones with computer vision. As it is small-sized, the dataset is currently intended for testing and evaluation purposes only. We also provide baseline results on these data, obtained with the state-of-the-art object detector TinyYOLOv3. This detector can return (nearly) real-time responses on embedded GPUs currently mounted on drones. We used the pre-trained model provided in the well-known [Alexey's repository]("https://github.com/AlexeyAB/darknet"), and we fine-tuned it on the challenging training set of Task 1 (object detection) of [VisDrone]("https://github.com/VisDrone/VisDrone-Dataset"), focusing only on people. Fine-tuning has been performed until early stopping, by monitoring the loss value on the validation set of the same dataset.
 
 ### Dataset description
 
@@ -28,11 +28,11 @@ The main aim of this repository is to encourage contributions on this intriguing
 
 The following are the precision-recall curves for the `mountains` and `beaches` datasets separately.
 
-<img src="\baseline_results\precision-recall_curve_mountains.png" width="400" height="auto"> <img src="\baseline_results\precision-recall_curve_beaches.png" width="400" height="auto">
+<img src="/baseline_results/precision-recall_curve_mountains.png" width="400" height="auto"> <img src="/baseline_results/precision-recall_curve_beaches.png" width="400" height="auto">
 
 The following, instead, is the same curve obtained by evaluating TinyYOLOv3 on the overall data. 
 
-<img src="\baseline_results\precision-recall_curve_overall.png" width="400" height="auto">
+<img src="/baseline_results/precision-recall_curve_overall.png" width="400" height="auto">
 
 The trained model's weights are provided in the main folder.
 
