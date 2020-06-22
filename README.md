@@ -28,12 +28,12 @@ The main aim of this repository is to encourage contributions on this intriguing
 
 The following are the precision-recall curves for the `mountains` and `beaches` datasets separately.
 
-<img src="baseline_results/precision-recall_curve_mountains.png" width="200" height="auto">
-<img src="baseline_results/precision-recall_curve_beaches.png" width="200" height="auto">
+<img src="baseline_results/precision-recall_curve_mountains.png" width="400" height="auto">
+<img src="baseline_results/precision-recall_curve_beaches.png" width="400" height="auto">
 
 The following, instead, is the same curve obtained by evaluating TinyYOLOv3 on the overall data. 
 
-<img src="baseline_results/precision-recall_curve_overall.png" width="200" height="auto">
+<img src="baseline_results/precision-recall_curve_overall.png" width="400" height="auto">
 
 The trained model's weights are provided in the main folder.
 
