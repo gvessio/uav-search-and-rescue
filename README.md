@@ -1,4 +1,4 @@
-# Search-and-rescue from drones with Computer Vision
+# Search-and-rescue from drones with computer vision
 
 ## Motivations
 
