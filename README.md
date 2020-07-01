@@ -44,7 +44,7 @@ Giovanna Castellano, Davide Carone, Francesco Scigliuto, Gennaro Vessio (from th
 
 If you find this dataset useful for your research, please cite:
 
-`@dataset{giovanna_castellano_2020_3924925,
+@dataset{giovanna_castellano_2020_3924925,
   author       = {Giovanna Castellano and
                   Davide Carone and
                   Francesco Scigliuto and
@@ -56,4 +56,4 @@ If you find this dataset useful for your research, please cite:
   version      = {v1.0},
   doi          = {10.5281/zenodo.3924925},
   url          = {https://doi.org/10.5281/zenodo.3924925}
-}`
+}
