@@ -42,18 +42,4 @@ Giovanna Castellano, Davide Carone, Francesco Scigliuto, Gennaro Vessio (from th
 
 #### Cite as
 
-If you find this dataset useful for your research, please cite:
-
-@dataset{giovanna_castellano_2020_3924925,
-  author       = {Giovanna Castellano and
-                  Davide Carone and
-                  Francesco Scigliuto and
-                  Gennaro Vessio},
-  title        = {gvessio/uav-search-and-rescue},
-  month        = jul,
-  year         = 2020,
-  publisher    = {Zenodo},
-  version      = {v1.0},
-  doi          = {10.5281/zenodo.3924925},
-  url          = {https://doi.org/10.5281/zenodo.3924925}
-}
+If you find this dataset useful for your research, please cite: Giovanna Castellano, Davide Carone, Francesco Scigliuto, & Gennaro Vessio. (2020). gvessio/uav-search-and-rescue (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3924925.
