@@ -39,3 +39,21 @@ The trained model's weights are provided in the main folder.
 #### Original contributors
 
 Giovanna Castellano, Davide Carone, Francesco Scigliuto, Gennaro Vessio (from the University of Bari "Aldo Moro", Italy). Any question can be emailed to <gennaro.vessio@uniba.it>.
+
+#### Cite as
+
+If you find this dataset useful for your research, please cite:
+
+`@dataset{giovanna_castellano_2020_3924925,
+  author       = {Giovanna Castellano and
+                  Davide Carone and
+                  Francesco Scigliuto and
+                  Gennaro Vessio},
+  title        = {gvessio/uav-search-and-rescue},
+  month        = jul,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.3924925},
+  url          = {https://doi.org/10.5281/zenodo.3924925}
+}`
